@@ -1,5 +1,8 @@
 ## Treehouse
 
-This repo is for all my course file completed through teamtreehouse.com
+This repo is for all my course files completed through teamtreehouse.com
 
-Checkout my Treehouse profile - www.teamtreehouse.com/gimarczinko
+Also checkout my Treehouse profile [here](https://teamtreehouse.com/gimarczink).
+
+![](http://media.yogajournal.com/wp-content/uploads/MC_AM06_00_sized2.jpg)
+
